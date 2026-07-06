@@ -2,7 +2,7 @@
 local Config = {}
 
 -- Language setting - English | Portuguese_PT | Portuguese_BR | French | German | Spanish
-Config.Lang = "English"
+Config.Lang = "Portuguese_BR"
 
 -- NPC Looting Settings
 Config.timeout = 5 -- default is 5 minutes, Time in milliseconds for how long this NPC/netid can be looted

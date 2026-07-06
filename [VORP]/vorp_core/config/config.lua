@@ -2,7 +2,7 @@
 --            VORP SHARED CONFIG             --
 --=============================================
 
-Lang = "English"
+Lang = "Portuguese_BR"
 Config = Config or {}
 
 Config = {
@@ -38,7 +38,7 @@ Config = {
 
     initGold                 = 0.0,          -- Initial gold amount for new players.
 
-    initMoney                = 200.0,        -- Initial money amount for new players.
+    initMoney                = 420.0,        -- Initial money amount for new players.
 
     initRol                  = 0.0,          -- Initial role-play currency amount for new players.
 
@@ -89,7 +89,7 @@ Config = {
 
     SaveDiscordId     = true, -- Saves Discord ID in the character/user database upon joining/leaving.
 
-    MaxCharacters     = 5,    -- Maximum number of characters a player can create. when first join, for old users go to users table and change the number of characters there
+    MaxCharacters     = 2,    -- Maximum number of characters a player can create. when first join, for old users go to users table and change the number of characters there
 
     MaxCharacterJobs  = 5,    -- Maximum number of jobs a player can have. for multijob system, this is for new players, for old change in database column max_jobs
 

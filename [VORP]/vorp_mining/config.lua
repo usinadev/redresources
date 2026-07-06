@@ -1,6 +1,6 @@
 Config = {}
 
-Lang = "English"
+Lang = "Portuguese_BR"
 
 Config.Pickaxe = "pickaxe"                -- Item from your database that you want to use for a pickaxe
 

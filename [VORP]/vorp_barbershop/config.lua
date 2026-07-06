@@ -1,6 +1,6 @@
 Config = {}
 
-Lang = "English"
+Lang = "Portuguese_BR"
 
 Config.keys = {
 	["G"] = 0x760A9C6F,

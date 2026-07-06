@@ -1,6 +1,6 @@
 Config = {}
 
-Config.defaultlang = "en_lang"
+Config.defaultlang = "pt_lang"
 
 Config.DevMode = false -- enable this if you want to make testes, dont leave true in live servers
 

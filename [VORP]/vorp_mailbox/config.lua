@@ -1,6 +1,6 @@
 Config = {}
 
-Config.locale = "en"
+Config.locale = "pt"
 Config.keyToOpen = "U"
 Config.keyToOpenBroadcast = "G"
 Config.locations = {

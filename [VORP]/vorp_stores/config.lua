@@ -1,6 +1,6 @@
 Config = {}
 
-Lang = "English"
+Lang = "Portuguese_BR"
 
 -- menu position
 -- "center" / "top-left" / "top-right"

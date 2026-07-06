@@ -1,5 +1,5 @@
 -- check translation file to see if your language is available or add it.
-Lang = "English"
+Lang = "Portuguese_BR"
 
 Config = {}
 

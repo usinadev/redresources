@@ -1,6 +1,6 @@
 Config                    = {}
 
-Config.Lang               = "English"
+Config.Lang               = "Portuguese_BR"
 
 Config.Key                = 0x760A9C6F -- [G]
 

@@ -11,7 +11,7 @@ Config = {
     commandAdmin        = "adminMenu",
 
     -- Language setting - English | Portuguese_PT | Portuguese_BR | French | German | Spanish
-    Lang                = "English",
+    Lang                = "Portuguese_BR",
 
     Key                 = 0x3C3DD371, -- PGDOWN Open Menu
 
